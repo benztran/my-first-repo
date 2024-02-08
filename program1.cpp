@@ -1,5 +1,5 @@
 #include <iostream>
 int main(){
-	cout << "Hello World version 2 - with a new feature!";
+	cout << "Hello World version 3";
 	return 0;
 }
